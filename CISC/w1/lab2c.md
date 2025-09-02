@@ -9,7 +9,7 @@ print(hex(id(var1)))   # memory address of var1 after reassignment
 
 
 
-#Answer: When var1 was resized from 10 to 100, Python created a new object for 100. The old object (10) still exists but is no longer referencing var1. This is why they are two different addresses
+# Answer: When var1 was resized from 10 to 100, Python created a new object for 100. The old object (10) still exists but is no longer referencing var1. This is why they are two different addresses
 
 ``` python
 
@@ -18,7 +18,7 @@ print(hex(id(var2)))   # memory address of var2
 
 ```
 
-#Answer: Python reuses the same memory location since var one was already being used as 100, var2 points to the same memory
+# Answer: Python reuses the same memory location since var one was already being used as 100, var2 points to the same memory
 
 ``` python
 
