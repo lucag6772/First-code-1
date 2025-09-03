@@ -48,4 +48,5 @@ e. False = 0             # Invalid. "False" is a reserved keyword in Python.
 
 ```
 
+# challenges: I was a little confused about the instructions for the first half of the assignment, and I think that by the end, I was able to figure out what the assignment was asking of me. 
 
